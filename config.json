@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Team11"
+  },
+  "text": {
+    "more": "One Mode Netzwerk. Stackoverflow Central Tags based on their  Degree Centrality. Nide size and color represent the node Degree Centrality. Dual Circular Layout .Node Layout Direction Counter Clockwise",
+    "intro": "Central Tags. Dual Circular Graph Layout\n",
+    "title": "Central Tags. 49 Tags with the Largest  Degree Value"
+  },
+  "legend": {
+    "edgeLabel": "Tag-Tag Connections",
+    "colorLabel": "Degree Centrality. Dark Blue- largest Degree",
+    "nodeLabel": "Stackoverflow Tags "
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#222",
+      "labelThreshold": 12,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 20
+    },
+    "graphProperties": {
+      "maxEdgeSize": 5.5,
+      "minEdgeSize": 0.5,
+      "minNodeSize": 5,
+      "maxNodeSize": 14
+    },
+    "mouseProperties": {
+      "maxRatio": 30,
+      "minRatio": 0.75
+    }
+  }
+}
