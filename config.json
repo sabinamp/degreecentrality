@@ -8,13 +8,13 @@
     "text": "Team11"
   },
   "text": {
-    "more": "One Mode Netzwerk. Stackoverflow Central Tags based on their  Degree Centrality. Nide size and color represent the node Degree Centrality. Dual Circular Layout .Node Layout Direction Counter Clockwise",
+    "more": "One Mode Network. Stackoverflow Central Tags based on their  Degree Centrality. Node color represents the node Degree Centrality. Dual Circular Layout.Node Layout Direction Counter Clockwise",
     "intro": "Central Tags. Dual Circular Graph Layout\n",
     "title": "Central Tags. 49 Tags with the Largest  Degree Value"
   },
   "legend": {
     "edgeLabel": "Tag-Tag Connections",
-    "colorLabel": "Degree Centrality. Dark Blue- largest Degree",
+    "colorLabel": "Degree Centrality. Dark Blue - the largest Degree. Node Layout Direction CCW",
     "nodeLabel": "Stackoverflow Tags "
   },
   "features": {
